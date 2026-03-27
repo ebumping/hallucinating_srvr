@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hallucinating HTML Servergooood",
+  "description": "A dynamic web server that uses Gemini to hallucinate and stream HTML content for any requested URL path.",
+  "requestFramePermissions": []
+}
